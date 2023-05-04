@@ -7,6 +7,8 @@
     <br />
   </p> 
   
+  
+  A aplicação poderá ser acessada pelo link: https://projeto-pokedex-dusky.vercel.app/
   ## :bulb:
   
   ![1](https://user-images.githubusercontent.com/34948480/236256051-1eab4d78-8ba7-418e-8e35-7d0eb8dc3187.png)
